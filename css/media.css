@@ -1,0 +1,136 @@
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.c_pb{padding-bottom: 60px;}
+/*header start*/
+.logo{font-size: 25px;}
+.btn_dd{ width: 300px;}
+/*banner start*/
+.slider { margin: 100px auto;}
+.s_text h1{font-size:30px;}
+/*service start*/
+.s_h1{}
+.c_service{margin-bottom: 30px;}
+.s_p1{margin: 30px 0 60px;}
+/*about start*/
+.ab_h1{margin:20px auto;
+text-align: center;}
+.ab_text p{margin-bottom:30px;}
+/*feature start*/
+.f_text{
+margin:45px 0 0;}
+.f_text p{padding:20px 0;}
+.f_h2{margin-top:15px;}
+/*action start*/
+.act_text h1 {font-size:15px;}
+.a_link {
+    padding: 10px 5px;
+    position: absolute;
+    top: 30px;
+    right: 0;}
+/*testimonial start*/
+    .s2_bt{writing-mode:horizontal-tb;
+        padding: 20px 0;}
+   .s2_btn {
+    padding: 0 50px;}
+
+    /*footer start*/
+    .ft_icon i {
+    font-size: 20px;}
+
+}	
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {.c_pb{padding-bottom: 60px;}
+/*banner start*/
+.slider { margin: 100px auto;}
+.s_text h1{font-size: 30px;}
+/*service start*/
+.c_service{margin-bottom: 30px;}
+.s_p1{margin: 30px 0 60px;}
+/*about start*/
+.ab_h1{text-align:center;
+margin:20px 0; }
+.ab_text p{margin-bottom: 30px;}
+
+/*feature start*/
+.f_text{padding: 0 80px;
+text-align: center;
+margin: 45px 0 0;}
+.f_text p{padding:20px 0;}
+.f_h2{margin:15px 70px 0 0;}
+/*teacher start*/
+
+/*price start*/
+.p_link{padding: 10px;}
+/*testimonial start*/
+    .s2_bt{writing-mode:horizontal-tb;
+        padding: 20px 100px;
+        width: 100%;}
+   .s2_btn {
+    padding: 0 50px;}
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.c_pb{padding-bottom: 80px;}
+/*banner start*/
+.s_text h1{font-size: 40px;}
+/*service start*/
+.c_service{margin-bottom: 30px;}
+.s_p1{margin: 35px 70px;}
+/*about start*/
+.ab_img{text-align: center;}
+.ab_h1{text-align:center;
+margin:20px 0; }
+.ab_text p{margin-bottom: 30px;}
+/*feature start*/
+.f_text{
+margin:45px 0 0;}
+.f_icon i{font-size:35px;}
+.f_h2{
+font-size:16px;}
+.f_text p{padding:20px 0;}
+/*teacher start*/
+/*price start*/
+.p_link{padding: 10px;}
+/*testimonial start*/
+    .s2_bt{writing-mode:horizontal-tb;
+        padding: 20px 100px;
+        width: 100%;}
+   .s2_btn {
+    padding: 0 100px;}
+
+}
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*banner start*/
+.s_text h1{font-size: 50px;}
+/*about start*/
+.ab_h1{margin-bottom:20px;}
+.ab_text p{margin-bottom:20px;}
+/*price start*/
+.p_link{padding: 10px;}	
+
+}
+
+/* Extra large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*banner start*/
+.s_text h1{font-size: 50px;}
+
+}
+
+/* Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+/*banner start*/
+.s_text h1{font-size: 60px;}
+/*testimonial start*/
+.s2_p1{margin:30px 0;}
+.s2_p3{margin:60px 0;}
+
+}
